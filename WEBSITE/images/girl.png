@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0038)http://www.cuet.ac.bd/congratsngpc.php -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+
+	<title>Youth Festival-2015 at CUET</title>
+	<link rel="icon" type="image/x-icon" href="http://www.cuet.ac.bd/images/cuet.jpg">
+	<link rel="stylesheet" href="./girl_files/style.css" type="text/css" charset="utf-8">
+	<script type="text/javascript" src="./girl_files/jquery-1.3.2.min.js.download"></script>
+		<script type="text/javascript" src="./girl_files/jquery.tools.js.download"></script>
+    	<script type="text/javascript" src="./girl_files/jquery.custom.js.download"></script>
+	
+	
+</head>
+
+<body onload="ImageBook()">
+  
+<div id="wrapper"> 
+  <div id="header"> </div>
+  <div id="left"> 
+    <div id="nav"> <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <p></p>
+      <ul>
+        <li><a href="http://www.cuet.ac.bd/">Home</a></li>
+        <li><a href="http://www.cuet.ac.bd/vcmsg">Message from VC</a></li>
+        <li><a href="http://www.cuet.ac.bd/history">About CUET</a></li>
+        <li><a href="http://www.cuet.ac.bd/faculties.php">Faculties</a></li>
+        <li><a href="http://www.cuet.ac.bd/pgadmission.php">Post Graduate</a></li>
+        <li><a href="http://www.cuet.ac.bd/institutes.php">Institutes</a></li>
+        <li><a href="http://www.cuet.ac.bd/centers.php">Centers</a></li>
+        <li><a href="http://www.cuet.ac.bd/admission">Admission</a></li>
+		<li><a href="http://www.cuet.ac.bd/appointments.php">Appointments</a></li>
+        <li><a href="http://www.cuet.ac.bd/library.php">Digital Library</a></li>
+        <li><a href="http://www.cuet.ac.bd/alumni">Alumni</a></li>
+        <li><a href="http://www.cuet.ac.bd/download">Downloadable Forms</a></li>
+        <li><a href="http://www.cuet.ac.bd/notices">Notice Board</a></li>
+		<li><a href="http://www.cuet.ac.bd/tender-notices">Tender Notice</a></li>
+		<li><a href="http://www.cuet.ac.bd/noc-list">NOC List</a></li>			
+		<li><a href="http://www.cuet.ac.bd/archives.php">Archives</a></li>			
+        <li><a href="http://www.cuet.ac.bd/contact">Contact us</a></li>
+      </ul>
+        </div>
+    <div id="support">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mail.cuet.ac.bd/" target="_blank"> 
+      @cuet.ac.bd</a> </div>
+  </div>
+  <div id="right"> 
+  
+    
+	
+	
+	<center>
+            <div id="slider_bg">
+								
+        <div class="waveshow nivoSlider" style="position: relative; width: 550px; height: 360px; background: url(&quot;newseventsfiles/pic1.jpg&quot;) no-repeat;"> 
+            <img src="./girl_files/pic1.jpg" width="550" height="360" alt="pic1" style="display: none;"> 
+            <img src="./girl_files/pic2.jpg" width="550" height="360" alt="pic2" style="display: none;">
+        <div class="nivo-slice" style="left: 0px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) 0px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 37px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -37px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 74px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -74px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 111px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -111px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 148px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -148px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 185px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -185px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 222px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -222px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 259px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -259px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 296px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -296px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 333px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -333px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 370px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -370px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 407px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -407px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 444px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -444px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 481px; width: 37px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -481px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-slice" style="left: 518px; width: 32px; height: 100%; opacity: 1; background: url(&quot;newseventsfiles/pic2.jpg&quot;) -518px 0% no-repeat; top: 0px; display: block;"></div><div class="nivo-caption" style="display: none; opacity: 0.8;"><p></p></div><div class="nivo-directionNav" style="display: block;"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div> 
+        <!-- waveshow -->
+	</div>
+       
+	</center>
+<br><br>
+	
+	
+	
+<center>
+	<div class="ifostnew">
+        <img width="545" src="./girl_files/ngpc170517.jpg" alt="ngpc170517">
+    	
+    </div>
+ 
+
+
+
+
+
+</center>
+	
+	<br><br><br>
+	
+	
+	
+	
+	</div>
+  <div class="clear"> </div>
+  <div id="spacer"> </div>
+  <div id="footer"> 
+    <div id="copyright"> 
+	Copyright © 2017 Chittagong University of Engineering and Technology.	</div>
+    <div id="footerline">f</div>
+  </div>
+</div>
+
+
+</body></html>
